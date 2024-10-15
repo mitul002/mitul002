@@ -27,7 +27,7 @@ I am a professional graphic designer, web designer, youtuber and a student.
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
     <a href="https://www.shutterstock.com/g/HasinAlmas" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/shutterstock-logo.svg" height="25" alt="Shutterstock logo"  />
+    <img src="https://steemitimages.com/DQmayLnkMjwRfaZ7WAU5De2Af3LWk8j87Lk9aW99sejnb6j/cafd11da4a2e41c07a9b1eb272def0bef5572889-Logo-White-Offsite.png" height="25" alt="Shutterstock logo"  />
   </a>
 
 </div>
