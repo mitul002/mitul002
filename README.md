@@ -8,26 +8,6 @@ I am a professional graphic designer, web designer, youtuber and a student.
 <img align="right" height="150" src="https://www.learnixit.com/static/img/course-1.gif"  />
 
 
-###
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-
 ### 🌐 Socials:
 
 ###
@@ -56,19 +36,31 @@ I am a professional graphic designer, web designer, youtuber and a student.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitul002&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitul002&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+###
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mitul002&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mitul002&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-
-
-
-###
-
-
-
 
 
 
