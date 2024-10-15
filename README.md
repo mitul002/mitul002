@@ -10,7 +10,8 @@ I am a professional graphic designer, web designer, youtuber and a student.
 
 
 ### 🌐 Socials:
-###<img  align="right" height="150" src="https://www.learnixit.com/static/img/course-1.gif"  />
+###
+<img  align="right" height="150" src="https://www.learnixit.com/static/img/course-1.gif"  />
 
 <div align="left">
   <a href="https://www.behance.net/hasinalmas" target="_blank">
@@ -36,7 +37,7 @@ I am a professional graphic designer, web designer, youtuber and a student.
 
 ### 💻 Programming Skils:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitul002&theme=default&hide_border=false)<br/>
 
@@ -89,6 +90,10 @@ I am a professional graphic designer, web designer, youtuber and a student.
 ## Project:
 1. Chatbotx (using Java OOP)
 2. Result Managemet System (Using python OOP, mysql)
+3. [ClipboardPro](https://github.com/mitul002/ClipboardPro-Official) (Official): Premium native Windows clipboard manager suite (WPF/C#).
+4. [OrbitSwipe](https://github.com/mitul002/OrbitSwipe-Official) (Official): Standalone hardware-accelerated radial launcher (PyQt6/Python).
+5. [Prayer Times](https://github.com/mitul002/prayer_times) (prayertimes.me): Comprehensive Islamic PWA toolkit with GPS and sync.
+6. [Xperts](https://github.com/mitul002/xperts) (Official): A PHP/MySQL booking platform for home services.
 
 ## Education:
 Currently I'm doing BSc in CSE
@@ -98,7 +103,8 @@ Currently I'm doing BSc in CSE
 - Powepoint Slide designer in Mojaru.com
 
 ## Portfolio
-- Portfolio Site:  https://sites.google.com/diu.edu.bd/mitul002
+- Portfolio Site: https://hasinalmas.vercel.app/
+- Old Google Portfolio Site: https://sites.google.com/diu.edu.bd/mitul002
 -  Shutterstock : https://www.shutterstock.com/g/HasinAlmas
 -  Behance : https://www.behance.net/hasinalmas
 -  Freepik : https://www.freepik.com/author/hasinalmas
