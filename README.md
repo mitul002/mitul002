@@ -5,6 +5,8 @@
 
 I am a professional graphic designer, web designer, youtuber and a student.
 
+<img align="right" height="150" src="https://www.learnixit.com/static/img/course-1.gif"  />
+
 
 ### 🌐 Socials:
 
@@ -46,7 +48,7 @@ I am a professional graphic designer, web designer, youtuber and a student.
 
 ###
 
-<img align="right" height="150" src="https://lh3.googleusercontent.com/4sN-jO1X4_vEmV-GIkXu4meoh8LhB-OSLa7e_gRkOO0LvliMW1msSkMhTbCMqz4_194pJHJ8Nh5hlFDBqUbpBVi_mYRf46INGOKfCn3OY0wUulbaUk5epj9Gmk0_y8FMBQ=w1280"  />
+
 
 
 
