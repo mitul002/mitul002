@@ -3,7 +3,7 @@
 ###
 
 
-I Am an Expert Software Developer, Web Developer , AI Automation Expert, Professional Graphic designer, Video Editor and Youtuber.
+I am an Expert Software Developer, Web Developer , AI Automation Expert, Professional Graphic designer, Video Editor and Youtuber.
 
 
 
