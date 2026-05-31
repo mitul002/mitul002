@@ -3,7 +3,7 @@
 ###
 
 
-I am a professional graphic designer, web designer, youtuber and a student.
+I Am an Expert Software Developer, Web Developer , AI Automation Expert, Professional Graphic designer, Video Editor and Youtuber.
 
 
 
@@ -104,14 +104,14 @@ Currently I'm doing BSc in CSE
 
 ## Portfolio
 - Portfolio Site: https://hasinalmas.vercel.app/
-- Old Google Portfolio Site: https://sites.google.com/diu.edu.bd/mitul002
--  Shutterstock : https://www.shutterstock.com/g/HasinAlmas
--  Behance : https://www.behance.net/hasinalmas
--  Freepik : https://www.freepik.com/author/hasinalmas
+- Portfolio Google Site: https://sites.google.com/diu.edu.bd/mitul002
+- Shutterstock : https://www.shutterstock.com/g/HasinAlmas
+- Behance : https://www.behance.net/hasinalmas
+- Freepik : https://www.freepik.com/author/hasinalmas
   
 
 ## Website:
-- Google Site: https://sites.google.com/diu.edu.bd/mitul002
+- Portfolio: https://hasinalmas.vercel.app/)
 - Pixel Studio: https://65e34f72772bb7d433e95ed9--dulcet-torrone-0f178a.netlify.app/
 
 ## Contact:
