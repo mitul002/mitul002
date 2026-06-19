@@ -3,8 +3,8 @@
 <div align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitul002&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23ECEFF1&title=views&edge_flat=false" alt="Profile Views" /> &nbsp;
   <img src="https://img.shields.io/github/issues-pr-closed-raw/mitul002/badge-hunter?color=green&label=Merged%20PRs&style=flat-square" alt="Merged PRs" /> &nbsp;
-  <img src="https://img.shields.io/github/stars/mitul002/ClipboardPro?style=flat-square&color=yellow&label=ClipboardPro%20Stars" alt="ClipboardPro Stars" /> &nbsp;
-  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
+  <img src="https://img.shields.io/github/stars/mitul002/ClipboardPro-Official?style=flat-square&color=yellow&label=ClipboardPro%20Stars" alt="ClipboardPro Stars" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe-official?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
 </div>
 
 <div align="center">
