@@ -98,6 +98,23 @@
 
 ---
 
+### 🛠️ Open Source Contributions
+
+<div align="center">
+  <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Amitul002" target="_blank">
+    <img src="https://img.shields.io/badge/Contributor-Microsoft%20WinGet-blue?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Microsoft WinGet Contributor" />
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Amitul002+is%3Amerged" target="_blank">
+    <img src="https://img.shields.io/badge/Contributions-Merged%20PRs-green?style=for-the-badge&logo=git&logoColor=white" alt="Merged Pull Requests" />
+  </a>
+  
+  <br/><br/>
+  
+  👉 <b><a href="https://github.com/pulls?q=is%3Apr+author%3Amitul002">Explore all my open-source commits and pull requests on GitHub</a></b>
+</div>
+
+---
+
 ### ✨ Soft Skills
 * 🎨 Graphic Design & UI/UX Design
 * 🌐 Web Design
