@@ -54,15 +54,13 @@
 
 
 
----
-
 ### 📊 GitHub Statistics & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitul002&theme=radical&hide_border=false" alt="streak stats" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitul002&theme=default&hide_border=false" alt="streak stats" /><br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mitul002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mitul002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="160" alt="languages graph" />
 </div>
 
 ---
@@ -75,14 +73,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mitul002&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="contributor stats" />
 </div>
 
 ---
