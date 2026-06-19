@@ -1,5 +1,12 @@
 # 🌌 Hello, 🙋🏻‍♂️ This is Mitul!
 
+<div align="left">
+  <img src="https://komarev.com/normal-badge/?username=mitul002&color=blueviolet&style=flat-square" alt="Profile Views" /> &nbsp;
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/mitul002/badge-hunter?color=green&label=Merged%20PRs&style=flat-square" alt="Merged PRs" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/mitul002/ClipboardPro-Official?style=flat-square&color=yellow&label=ClipboardPro%20Stars" alt="ClipboardPro Stars" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe-Official?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
+</div>
+
 <div align="center">
   <img src="https://www.learnixit.com/static/img/course-1.gif" align="right" height="150" alt="header gif" />
   
