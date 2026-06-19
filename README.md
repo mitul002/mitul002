@@ -1,10 +1,10 @@
 # 🌌 Hello, 🙋🏻‍♂️ This is Mitul!
 
 <div align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitul002&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23ECEFF1&title=views&edge_flat=false" alt="Profile Views" /> &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mitul002" alt="Profile Views" /> &nbsp;
   <img src="https://img.shields.io/github/issues-pr-closed-raw/mitul002/badge-hunter?color=green&label=Merged%20PRs&style=flat-square" alt="Merged PRs" /> &nbsp;
   <img src="https://img.shields.io/github/stars/mitul002/ClipboardPro-Official?style=flat-square&color=yellow&label=ClipboardPro%20Stars" alt="ClipboardPro Stars" /> &nbsp;
-  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe-official?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
+  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe-Official?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
 </div>
 
 <div align="center">
@@ -81,6 +81,19 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+---
+
+### ⭐ Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/mitul002/ClipboardPro-Official">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mitul002&repo=ClipboardPro-Official&theme=default" alt="ClipboardPro" />
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/mitul002/OrbitSwipe-Official">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mitul002&repo=OrbitSwipe-Official&theme=default" alt="OrbitSwipe" />
+  </a>
 </div>
 
 ---
