@@ -120,7 +120,8 @@
 
 ### ✨ Soft Skills
 * 🎨 Graphic Design & UI/UX Design
-* 🌐 Web Design
+* 🌐 Sofware Development (Windows & Web)
+* 🤖 AI Automation Development 
 * 🔊 Sound Design
 * 🎬 Video Editing & 2D Animation
 * 📊 Powerpoint Slide Design
