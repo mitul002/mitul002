@@ -52,6 +52,14 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://gh-trophy.cdnsoft.net/?username=mitul002&theme=default&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+</div>
+
 
 
 ### 📊 GitHub Statistics & Streaks
