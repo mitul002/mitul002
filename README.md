@@ -57,7 +57,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=mitul002&theme=default&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=mitul002&theme=default&no-frame=false&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-Reviews" alt="github trophies" />
 </div>
 
 
@@ -67,7 +67,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitul002&theme=default&hide_border=false" alt="streak stats" /><br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mitul002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mitul002&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="160" alt="languages graph" />
 </div>
 
