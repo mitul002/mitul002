@@ -1,10 +1,10 @@
 # 🌌 Hello, 🙋🏻‍♂️ This is Mitul!
 
 <div align="left">
-  <img src="https://komarev.com/normal-badge/?username=mitul002&color=blueviolet&style=flat-square" alt="Profile Views" /> &nbsp;
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitul002&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23ECEFF1&title=views&edge_flat=false" alt="Profile Views" /> &nbsp;
   <img src="https://img.shields.io/github/issues-pr-closed-raw/mitul002/badge-hunter?color=green&label=Merged%20PRs&style=flat-square" alt="Merged PRs" /> &nbsp;
-  <img src="https://img.shields.io/github/stars/mitul002/ClipboardPro-Official?style=flat-square&color=yellow&label=ClipboardPro%20Stars" alt="ClipboardPro Stars" /> &nbsp;
-  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe-Official?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
+  <img src="https://img.shields.io/github/stars/mitul002/ClipboardPro?style=flat-square&color=yellow&label=ClipboardPro%20Stars" alt="ClipboardPro Stars" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/mitul002/OrbitSwipe?style=flat-square&color=orange&label=OrbitSwipe%20Stars" alt="OrbitSwipe Stars" />
 </div>
 
 <div align="center">
@@ -52,13 +52,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mitul002&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
-</div>
 
 ---
 
