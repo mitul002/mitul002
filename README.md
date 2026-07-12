@@ -137,7 +137,7 @@
 2. **Result Management System** *(Python OOP, MySQL)* — Academic performance portal.
 3. **[ClipboardPro](https://github.com/mitul002/ClipboardPro-Official)** *(Official)* — Premium native Windows clipboard manager suite (WPF/C#).
 4. **[OrbitSwipe](https://github.com/mitul002/OrbitSwipe-Official)** *(Official)* — Standalone hardware-accelerated radial launcher (PyQt6/Python).
-5. **[Prayer Times](https://github.com/mitul002/prayer_times)** *(prayertimes.me)* — Comprehensive Islamic PWA toolkit with GPS and sync.
+5. **[Prayer Times](https://github.com/mitul002/prayer_times)** *(prayer-times.me)* — Comprehensive Islamic PWA toolkit with GPS and sync.
 6. **[Xperts](https://github.com/mitul002/xperts)** *(Official)* — A PHP/MySQL booking platform for home services.
 
 ---
